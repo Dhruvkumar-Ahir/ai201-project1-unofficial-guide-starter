@@ -1,0 +1,63 @@
+Erisa Terolli
+Teaching Assistant Professor
+Charles V. Schaefer, Jr. School of Engineering and Science
+
+Department of Computer Science
+
+Gateway Center S244
+(201) 216-5310
+eterolli@stevens.edu
+Website
+Education
+Research
+Experience
+Institutional Service
+Appointments
+Honors and Awards
+Selected Publications
+Courses
+
+Education
+Ph.D. (2018) Sapienza University of Rome (Computer Science)
+Research
+Data/Graph Mining
+Social Computing
+Experience
+Postdoc Researcher - Max Planck Institute of Informatics (2018 - 2021)
+Visiting Research Scholar - Brown University - 2017
+Institutional Service
+Teaching Faculty Advisory Board Member
+ADAPT S-STEM program Member
+First Generation Low Income Mentorship Program Member
+SWICS Student Club Advisor Chair
+DEI Committee Chair
+Internal Review/SES Associate Dean for Undergraduate Studies Member
+Developing Curriculum Committee Member
+ADAPT S-STEM program Member
+Google Developer Student Club Advisor Chair
+SWICS Student Club Advisor Chair
+NSF BPC Plan Workshop Member
+First Generation Low Income Mentorship Program Member
+Academic Ambassador Member
+CS NTT Search Committee Member
+DEI Committee Member
+Academic Ambassador Member
+CS Chair Search Committee Member
+Appointments
+- Teaching Assistant Professor - Stevens Institute of Technology Sep 2021 - present.
+Honors and Awards
+- Google Anita Borg Fellowship 2015
+- ICT Awards - Female in ICT 2016
+Selected Publications
+Conference Proceeding
+Guimareas, A.; Terolli, E.; Weikum, G. (2021). Comparing Health Forums: User Engagement, Salient Entities, Medical Detail. 2021 Conference on Computer Supported Cooperative Work and Social Computing. 2021 Conference on Computer Supported Cooperative Work and Social Computing.
+https://dl.acm.org/doi/fullHtml/10.1145/3462204.3481748.
+Guimaraes, A.; Balalau, O.; Terolli, E.; Weikum, G. (2019). Analyzing the Traits and Anomalies of Political Discussions on Reddit. Proceedings of the International AAAI Conference on Web and Social Media (vol. 13, pp. 205-213). Association for the Advancement of Artificial Intelligence (AAAI).
+https://doi.org/10.1609/icwsm.v13i01.3222.
+Journal Article
+De Stefani, L.; Terolli, E.; Upfal, E. (2021). Tiered Sampling: An Efficient Method for Counting Sparse Motifs in Massive Graph Streams. ACM Transactions on Knowledge Discovery from Data (TKDD) (5 ed., vol. 15, pp. 1-52). ACM.
+https://dl.acm.org/doi/abs/10.1145/3441299.
+Courses
+- Introduction to CS - Fall 2022, Spring 2022, Fall 2021
+- Mathematical Foundations of Machine Learning - Fall 2022, Spring 2022, Fall 2021
+- Fundamentals of Computing Spring 2022
